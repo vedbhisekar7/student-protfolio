@@ -1,4 +1,4 @@
-<img width="1894" height="964" alt="Screenshot 2026-05-23 150451" src="https://github.com/user-attachments/assets/134ec158-f57c-4fc7-a084-d0a32ef76da2" /><img width="1902" height="961" alt="Screenshot 2026-05-23 150427" src="https://github.com/user-attachments/assets/ae6d133e-f9ca-4b8e-8407-9271a12322cb" />A clean and responsive personal portfolio website created to showcase my profile, skills, projects, and academic journey as a First Year B.Tech Software Engineering student.
+ clean and responsive personal portfolio website created to showcase my profile, skills, projects, and academic journey as a First Year B.Tech Software Engineering student.
 🚀 Features
 Responsive modern design
 About Me section
